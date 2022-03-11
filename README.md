@@ -1,4 +1,4 @@
-<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/soldOut.png" align="right"></a>
+<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right"></a>
 
 
 ### Hi there 👋
