@@ -26,9 +26,10 @@
 
 > 김기현 [웹퍼블리셔] 📧 kimkee@naver.com    📞 <a href="tel:010-3236-1677">010-3236-1677</a>
 
-> https://kimkee.github.io/
+> <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a>
 
-> https://kimkee.github.io/ui/
+
+> <a href="https://kimkee.github.io/ui/" target="_blank">https://kimkee.github.io/ui/</a>
 
 <br>
 
