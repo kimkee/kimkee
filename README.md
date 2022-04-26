@@ -21,14 +21,20 @@
 <br>
 
 <!-- > ### Hi there 👋 -->
-## Status
+## Status  
 > **2022년 05월 01일** 부터 프로젝트 투입가능합니다! 
 
-> 김기현 [웹퍼블리셔] 📧 kimkee@naver.com    📞 <a href="tel:010-3236-1677">010-3236-1677</a>
+> 김기현 [웹퍼블리셔] 
+
 
 > <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a>
 
+
 > <a href="https://kimkee.github.io/ui/" target="_blank">https://kimkee.github.io/ui/</a>
+
+<br>
+
+![](https://img.shields.io/static/v1?label=Email&message=kimkee@naver.com&color=blueviolet) ![](https://img.shields.io/static/v1?label=Mobile&message=010-3236-1677&color=orange) 
 
 <br>
 
