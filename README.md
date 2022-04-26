@@ -1,3 +1,4 @@
+## Tech
 <a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right"></a>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -20,7 +21,7 @@
 <br>
 
 <!-- > ### Hi there 👋 -->
-
+## Status
 > **2022년 05월 01일** 부터 프로젝트 투입가능합니다! 
 
 > 김기현 [웹퍼블리셔] 📧 kimkee@naver.com  📞 010-3236-1677
