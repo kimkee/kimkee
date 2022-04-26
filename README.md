@@ -3,7 +3,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFCE5A?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFCE5A?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Jquery](https://img.shields.io/badge/-Jquery-%230769ad?style=for-the-badge&logo=javascript&logoColor=000000)
 ![SASS](https://img.shields.io/badge/-Sass-ca6598?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![Gulp](https://img.shields.io/badge/-Gulp-43853d?style=for-the-badge&logo=Gulp&logoColor=white)
