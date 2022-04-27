@@ -26,13 +26,21 @@
 
 > 김기현 [웹퍼블리셔] 
 
-
 > <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a>
-
 
 > <a href="https://kimkee.github.io/ui/" target="_blank">https://kimkee.github.io/ui/</a>
 
-<br>
+
+```
+const Data = {
+	Name:     "김기현",
+	Email:    "kimkee@naver.com",
+	Mobile:   "010-3236-1677,
+	Site:     "kimkee.github.io",
+	Location: "Seoul"
+};
+```
+
 
 ![](https://img.shields.io/static/v1?label=Email&message=kimkee@naver.com&color=blueviolet) ![](https://img.shields.io/static/v1?label=Mobile&message=010-3236-1677&color=orange) 
 
