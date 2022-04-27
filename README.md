@@ -33,11 +33,17 @@
 
 ```
 const Data = {
-	Name:     "김기현",
-	Email:    "kimkee@naver.com",
-	Mobile:   "010-3236-1677,
-	Site:     "kimkee.github.io",
-	Location: "Seoul"
+  Name: "김기현",
+  Email: "kimkee@naver.com",
+  Mobile: "010-3236-1677,
+  Site: "kimkee.github.io",
+  Locate: "Seoul".
+  Skill: ["HTML", "CSS", "Javascript" ,"Jquery" ,"Git" ,"SASS" ,"Gunp" ,"NPM"],
+  Call: function(){
+    ui.alert("Please contact me via email");
+  },
+  opend:  true,
+  update: "2022-05-01",
 };
 ```
 
