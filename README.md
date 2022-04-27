@@ -22,13 +22,15 @@
 
 <!-- > ### Hi there 👋 -->
 ## Status  
-### **2022년 05월 01일** 부터 프로젝트 투입가능합니다! 
+<div align="right">💰💰💰💰💰💰💸/📆</div>
 
-> 김기현 [웹퍼블리셔] 
+> **2022년 05월 01일** 부터 프로젝트 투입가능합니다!
+
+
 
 <!-- > <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a> -->
 
-> <a href="https://kimkee.github.io/ui/" target="_blank">https://kimkee.github.io/ui/</a>
+<!-- > <a href="https://kimkee.github.io/ui/" target="_blank">https://kimkee.github.io/ui/</a> -->
 
 
 ```
