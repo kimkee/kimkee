@@ -37,7 +37,7 @@ const Data = {
   Email: "kimkee@naver.com",
   Mobile: "010-3236-1677,
   Site: "kimkee.github.io",
-  Locate: "Seoul".
+  Locate: "Seoul Korea",
   Skill: ["HTML", "CSS", "Javascript" ,"Jquery" ,"Git" ,"SASS" ,"Gunp" ,"NPM"],
   Call: function(){
     ui.alert("Please contact me via email");
