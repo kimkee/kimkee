@@ -1,32 +1,30 @@
-## Tech
+## ⚡Tech
 <a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right"></a>
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFCE5A?style=for-the-badge&logo=javascript&logoColor=000000)
-![Jquery](https://img.shields.io/badge/-Jquery-%230769ad?style=for-the-badge&logo=javascript&logoColor=000000)
-![SASS](https://img.shields.io/badge/-Sass-ca6598?style=for-the-badge&logo=sass&logoColor=ffffff)
-![Gulp](https://img.shields.io/badge/-Gulp-43853d?style=for-the-badge&logo=Gulp&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) 
-![Svn](https://img.shields.io/badge/-Svn-0f80c1?style=for-the-badge&logo=svn&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/-Npm-e72e35?style=for-the-badge&logo=npm&logoColor=ffffff)
-![Node](https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Web Accessibility](https://img.shields.io/badge/-Accessibility-2e853e?style=for-the-badge&logo=w3c&logoColor=ffffff)
-![Cross-browsing](https://img.shields.io/badge/-Cross%20browsing-ffe473?style=for-the-badge&logo=browsing&logoColor=ffffff)
-![Respond web](https://img.shields.io/badge/-Respond%20web-ca6598?style=for-the-badge&logo=Respond&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFCE5A?style=flat-square&logo=javascript&logoColor=000000)
+![Jquery](https://img.shields.io/badge/-Jquery-%230769ad?style=flat-square&logo=javascript&logoColor=000000)
+![SASS](https://img.shields.io/badge/-Sass-ca6598?style=flat-square&logo=sass&logoColor=ffffff)
+![Gulp](https://img.shields.io/badge/-Gulp-43853d?style=flat-square&logo=Gulp&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) 
+![Svn](https://img.shields.io/badge/-Svn-0f80c1?style=flat-square&logo=svn&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/-Npm-e72e35?style=flat-square&logo=npm&logoColor=ffffff)
+![Node](https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=ffffff)
+![Web Accessibility](https://img.shields.io/badge/-Accessibility-2e853e?style=flat-square&logo=w3c&logoColor=ffffff)
+![Cross-browsing](https://img.shields.io/badge/-Cross%20browsing-ffe473?style=flat-square&logo=browsing&logoColor=ffffff)
+![Respond web](https://img.shields.io/badge/-Respond%20web-ca6598?style=flat-square&logo=Respond&logoColor=ffffff)
 
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) -->
 <br>
 
 <!-- > ### Hi there 👋 -->
-## Status  
+## ⚡Status  
 <!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
 
 **2022년 05월 01일** 부터 프로젝트 투입가능합니다!
-
-
 
 <!-- > <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a> -->
 
@@ -54,7 +52,7 @@ const data = {
 
 <br>
 
-## Project Career
+## ⚡Project Career
 
 <img src="https://kimkee.github.io/img/ss/ssKyobo.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssLhmk.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssAboutpet.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssSbms.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssHebt.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssFapee.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssMhrM.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssHimart.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssInsterior.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssMlbM.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssMlb.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssApcM.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssApc.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssMyomeeM.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssMyomee.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssCjtelenix.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssCjwhistle.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssEfss.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssGalleria.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssGalleriaM.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssDice.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssKingkong.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssChatOn2.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssHotelShilla.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssSktstore.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssHomeplus.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssChatOn1.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssSpoplay.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssSpoplayM.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssSpolive.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssSpoliveM.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssWshop.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssArisam.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssArisamMe.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssCitibank.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssKb.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssEyaGroup.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssEyaCustomer.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssEyaPc.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssLuna.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssAngel.jpg" alt="SS" width="62px"> <img src="https://kimkee.github.io/img/ss/ssEda.jpg" alt="SS" width="62px">
 
@@ -99,6 +97,8 @@ const data = {
 
 </div>
 
+
+![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=false&theme=radical)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
