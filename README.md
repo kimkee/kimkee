@@ -1,5 +1,5 @@
 ## ⚡Tech
-<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right"></a>
+<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right" width="100"></a>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3)
