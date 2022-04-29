@@ -39,11 +39,11 @@ const data = {
     site: "kimkee.github.io",
     locate: "Seoul Korea",
     skill: ["HTML", "CSS", "Javascript" ,"Jquery" ,"Git" ,"SASS" ,"Gulp" ,"NPM"],
-    call: function(){
-        ui.alert("Please contact me via email");
-    },
     opend:  true,
     update: "2022-05-01",
+    call: function(){
+        ui.alert("Please contact me via email");
+    }
 };
 ```
 
