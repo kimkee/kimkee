@@ -1,5 +1,5 @@
 ## ⚡Tech
-<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right" width="100"></a>
+<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/soldOut.png" align="right" width="100"></a>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3)
@@ -24,7 +24,7 @@
 ## ⚡Status  
 <!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
 
-**2022년 05월 01일** 부터 프로젝트 투입가능합니다!
+**2022년 10월 10일** 부터 프로젝트 투입가능합니다!
 
 <!-- > <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a> -->
 
@@ -32,13 +32,13 @@
 
 
 ```
-const data = {
+let profile = {
     name: "김기현",
     email: "kimkee@naver.com",
     mobile: "010-3236-1677,
     site: "kimkee.github.io",
     locate: "Seoul Korea",
-    skill: ["HTML", "CSS", "Javascript" ,"Jquery" ,"Git" ,"SASS" ,"Gulp" ,"NPM"],
+    skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
     opend:  true,
     update: "2022-05-01",
     call: function(){
