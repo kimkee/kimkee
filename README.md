@@ -32,7 +32,7 @@
 
 
 ```
-let profile = {
+const profile = {
     name: "김기현",
     email: "kimkee@naver.com",
     mobile: "010-3236-1677,
