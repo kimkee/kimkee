@@ -31,7 +31,7 @@
 > <a href="https://kimkee.github.io/ui/" target="_blank">https://kimkee.github.io/ui/</a>
 
 
-```
+``` js
 const profile = {
     name: "김기현",
     email: "kimkee@naver.com",
@@ -41,7 +41,7 @@ const profile = {
     skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
     opend:  true,
     update: "2022-05-01",
-    call: function(){
+    call: e => {
         ui.alert("Please contact me via email");
     }
 };
