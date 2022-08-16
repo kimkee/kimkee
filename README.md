@@ -35,12 +35,12 @@
 const profile = {
     name: "김기현",
     email: "kimkee@naver.com",
-    mobile: "010-3236-1677,
+    mobile: "010-3236-1677",
     site: "kimkee.github.io",
     locate: "Seoul Korea",
     skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
     opend:  true,
-    update: "2022-07-01",
+    update: "2022-09-01",
     call: e => {
         ui.alert("Please contact me via email");
     }
