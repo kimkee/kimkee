@@ -102,8 +102,8 @@ const profile = {
 </div>
 
 
-![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=true&)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&lang)
+![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&lang&theme=dark)
 
 
 <!-- - 🔭 I’m currently working on ...
