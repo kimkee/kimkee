@@ -9,7 +9,8 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-43853d?style=flat-square&logo=Gulp&logoColor=white)
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white">
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-<img src="https://img.shields.io/badge/GitHub-%23FC6D26.svg?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-%234083d5.svg?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Gitlab-%23fa6c31.svg?style=flat-square&logo=Gitlab&logoColor=ffffff">
 ![Svn](https://img.shields.io/badge/-SVN-0f80c1?style=flat-square&logo=Subversion&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-Npm-e72e35?style=flat-square&logo=npm&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white)
@@ -102,8 +103,11 @@ const profile = {
 </div>
 
 
+
 ![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&lang&theme=dark)
+
 
 
 <!-- - 🔭 I’m currently working on ...
