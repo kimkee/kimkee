@@ -100,11 +100,11 @@ const profile = {
 </div>
 
 
-![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=false&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&themes=gruvbox)
+![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&lang&theme=gruvbox)
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=true&theme=gruvbox">
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&lang&theme=gruvbox">
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&lang&theme=dark">
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
