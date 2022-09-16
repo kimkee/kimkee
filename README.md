@@ -25,7 +25,7 @@
 ## ⚡Status  
 <!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
 
-**2022년 10월 10일** 부터 프로젝트 투입가능합니다!
+**2022년 10월 11일** 부터 프로젝트 투입가능합니다!
 
 <!-- > <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a> -->
 
