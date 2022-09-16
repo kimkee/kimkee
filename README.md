@@ -10,7 +10,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 <img src="https://img.shields.io/badge/GitHub-%23555555.svg?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white">
-![Svn](https://img.shields.io/badge/-Svn-0f80c1?style=flat-square&logo=svn&logoColor=ffffff)
+![Svn](https://img.shields.io/badge/-SVN-0f80c1?style=flat-square&logo=Subversion&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-Npm-e72e35?style=flat-square&logo=npm&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=ffffff)
