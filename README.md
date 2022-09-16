@@ -100,8 +100,8 @@ const profile = {
 </div>
 
 
-![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=false&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&themes=buefy)
+![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=false&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&themes=gruvbox)
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
