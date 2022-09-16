@@ -23,7 +23,7 @@
 <br>
 
 <!-- > ### Hi there 👋 -->
-<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/soldOut.png" align="right" width="100"></a>
+<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right" width="100"></a>
 ## ⚡Status  
 <!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
 
@@ -43,7 +43,7 @@ const profile = {
     locate: "Seoul Korea",
     skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
     opend:  true,
-    update: "2022-09-01",
+    update: "2022-10-01",
     call: e => {
         ui.alert("Please contact me via email");
     }
