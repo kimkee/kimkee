@@ -8,7 +8,7 @@
 ![SASS](https://img.shields.io/badge/-Sass-ca6598?style=flat-square&logo=sass&logoColor=ffffff)
 ![Gulp](https://img.shields.io/badge/-Gulp-43853d?style=flat-square&logo=Gulp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-<img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-%232ea44f.svg?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white">
 ![Svn](https://img.shields.io/badge/-Svn-0f80c1?style=flat-square&logo=svn&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-Npm-e72e35?style=flat-square&logo=npm&logoColor=ffffff)
