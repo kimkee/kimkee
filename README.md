@@ -8,6 +8,18 @@
 ![SASS](https://img.shields.io/badge/-Sass-ca6598?style=flat-square&logo=sass&logoColor=ffffff)
 ![Gulp](https://img.shields.io/badge/-Gulp-43853d?style=flat-square&logo=Gulp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) 
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://img.shields.io/badge/VSCode-23114B?style=flat-square&logo=visualstudio&logoColor=white">
+</a>
+<a href="https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-B34A00?style=flat-square&logo=html5&logoColor=white">
+</a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1DA99F?style=flat-square&logo=css3&logoColor=white">
+</a>
+
+
 ![Svn](https://img.shields.io/badge/-Svn-0f80c1?style=flat-square&logo=svn&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-Npm-e72e35?style=flat-square&logo=npm&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white)
