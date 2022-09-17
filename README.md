@@ -7,10 +7,10 @@
 ![Jquery](https://img.shields.io/badge/-Jquery-%230769ad?style=flat-square&logo=javascript&logoColor=ffffff)
 ![SASS](https://img.shields.io/badge/-Sass-ca6598?style=flat-square&logo=sass&logoColor=ffffff)
 ![Gulp](https://img.shields.io/badge/-Gulp-43853d?style=flat-square&logo=Gulp&logoColor=white)
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white">
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white")
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-<img src="https://img.shields.io/badge/GitHub-%234083d5.svg?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Gitlab-%23302683.svg?style=flat-square&logo=Gitlab&logoColor=ffffff">
+![Github](https://img.shields.io/badge/GitHub-%234083d5.svg?style=flat-square&logo=github&logoColor=white")
+![Gitlab](https://img.shields.io/badge/Gitlab-%23302683.svg?style=flat-square&logo=Gitlab&logoColor=ffffff")
 ![Svn](https://img.shields.io/badge/-SVN-0f80c1?style=flat-square&logo=Subversion&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-Npm-e72e35?style=flat-square&logo=npm&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white)
