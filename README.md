@@ -3,7 +3,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23FF9E0F?style=flat-square&logo=javascript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F02E65?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Jquery](https://img.shields.io/badge/-Jquery-%230769ad?style=flat-square&logo=javascript&logoColor=ffffff)
 ![SASS](https://img.shields.io/badge/-Sass-ca6598?style=flat-square&logo=sass&logoColor=ffffff)
 ![Gulp](https://img.shields.io/badge/-Gulp-43853d?style=flat-square&logo=Gulp&logoColor=white)
@@ -19,6 +19,10 @@
 ![Cross-browsing](https://img.shields.io/badge/-Cross%20browsing-302683?style=flat-square&logo=googlechrome&logoColor=ffffff)
 ![Respond web](https://img.shields.io/badge/-Respond%20web-ca6598?style=flat-square&logo=htmlacademy&logoColor=ffffff)
 
+<!-- ![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-369369?style=flat-square&logo=Vue.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff) -->
+
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) -->
 <br>
@@ -28,7 +32,7 @@
 ## ⚡Status  
 <!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
 
-**2022년 10월 11일** 부터 프로젝트 투입가능합니다!
+**2023년 01월 01일** 부터 프로젝트 투입가능합니다!
 
 <!-- > <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a> -->
 
