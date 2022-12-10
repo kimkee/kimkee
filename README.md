@@ -20,9 +20,11 @@
 ![Cross-browsing](https://img.shields.io/badge/-Cross%20browsing-302683?style=flat-square&logo=googlechrome&logoColor=ffffff)
 ![Respond web](https://img.shields.io/badge/-Respond%20web-ca6598?style=flat-square&logo=htmlacademy&logoColor=ffffff)
 
-<!-- ![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase&logoColor=ffffff)
+### 👀 I'm practicing
 ![Vue](https://img.shields.io/badge/-Vue-369369?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff) -->
+![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase&logoColor=ffffff)
+
 
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) -->
