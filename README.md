@@ -71,11 +71,11 @@ const profile = {
 
 
 
-|  게시판 | 상세 | 갤러리 |
+|  챗팅 | 게시판 | 상세 |
 | :-: | :-: | :-: |
-| <img src="img/ss_01.jpg" width="200px" align="top"> | <img src="img/ss_02.jpg" width="200px" align="top"> | <img src="img/ss_03.jpg" width="200px" align="top">|
-|  글수정 | 챗팅 | 회원가입 |
-| <img src="img/ss_04.jpg" width="200px" align="top"> | <img src="img/ss_05.jpg" width="200px" align="top"> | <img src="img/ss_06.jpg" width="200px" align="top">|
+| <img src="img/ss_05.jpg" width="200px" align="top"> | <img src="img/ss_01.jpg" width="200px" align="top"> | <img src="img/ss_02.jpg" width="200px" align="top"> |
+|  첨부 | 갤러리 | 회원 |
+| <img src="img/ss_04.jpg" width="200px" align="top"> | <img src="img/ss_03.jpg" width="200px" align="top"> | <img src="img/ss_06.jpg" width="200px" align="top">|
 
 
 <br>
