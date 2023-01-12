@@ -38,7 +38,7 @@
 
 <!-- > <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a> -->
 
-> <a href="https://kimkee.github.io/ui/" target="_blank">https://kimkee.github.io/ui/</a>
+> <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a>
 
 
 ``` js
