@@ -20,7 +20,11 @@
 ![Cross-browsing](https://img.shields.io/badge/-Cross%20browsing-302683?style=flat-square&logo=googlechrome&logoColor=ffffff)
 ![Respond web](https://img.shields.io/badge/-Respond%20web-ca6598?style=flat-square&logo=htmlacademy&logoColor=ffffff)
 
-<img src="https://avatars.githubusercontent.com/u/6386956" width="20" height="20"> 
+
+### 👀 I'm practicing
+![Vue](https://img.shields.io/badge/-Vue-369369?style=flat-square&logo=Vue.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase&logoColor=ffffff)
 
 
 
@@ -60,12 +64,7 @@ const profile = {
 
 ![](https://img.shields.io/static/v1?label=Email&message=kimkee@naver.com&color=blueviolet) ![](https://img.shields.io/static/v1?label=Mobile&message=010-3236-1677&color=orange) 
 
-<br>
-
-### 👀 I'm practicing
-![Vue](https://img.shields.io/badge/-Vue-369369?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase&logoColor=ffffff)
+<img src="https://avatars.githubusercontent.com/u/6386956" width="20" height="20"> 
 
 ## VUE : <a href="https://kimkee.github.io/vue/" target="_blank">https://kimkee.github.io/vue/</a>
 
