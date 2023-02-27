@@ -34,7 +34,7 @@
 <br>
 
 <!-- > ### Hi there 👋 -->
-<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/app/img/cm/forSale.png" align="right" width="100"></a>
+<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right" width="100"></a>
 ## ⚡Status  
 <!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
 
