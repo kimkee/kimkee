@@ -1,5 +1,7 @@
 ## ⚡Tech
 
+<!-- > ### Hi there 👋 -->
+<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right" width="100"></a>
 
 ![HTML](https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3)
@@ -33,8 +35,36 @@
 <!-- ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) -->
 <br>
 
-<!-- > ### Hi there 👋 -->
-<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right" width="100"></a>
+
+<br>
+
+## React : <a href="https://kimkee.github.io/react/" target="_blank">https://kimkee.github.io/react/</a>
+
+
+
+|  홈 | 상세 | 리스트 | 검색 |
+| :-: | :-: | :-: | :-: |
+| <img src="img/tmdb/ss_01.png" width="200px" align="top"> | <img src="img/tmdb/ss_02.png" width="200px" align="top"> | <img src="img/tmdb/ss_03.png" width="200px" align="top"> | <img src="img/tmdb/ss_04.png" width="200px" align="top"> |
+
+
+
+
+<br>
+
+
+
+## VUE : <a href="https://kimkee.github.io/vue/" target="_blank">https://kimkee.github.io/vue/</a>
+
+
+
+|  챗팅 | 갤러리 | 게시판 | 상세 |
+| :-: | :-: | :-: |:-: |
+| <img src="img/ss_05.jpg" width="200px" align="top"> |<img src="img/ss_03.jpg" width="200px" align="top"> |  <img src="img/ss_01.jpg" width="200px" align="top"> | <img src="img/ss_02.jpg" width="200px" align="top"> |
+<!-- |  첨부 | 갤러리 | 회원 |
+| <img src="img/ss_04.jpg" width="200px" align="top"> | <img src="img/ss_06.jpg" width="200px" align="top">| -->
+
+
+<br>
 ## ⚡Status  
 <!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
 
@@ -66,18 +96,6 @@ const profile = {
 
 <img src="https://avatars.githubusercontent.com/u/6386956" width="20" height="20"> 
 
-## VUE : <a href="https://kimkee.github.io/vue/" target="_blank">https://kimkee.github.io/vue/</a>
-
-
-
-|  챗팅 | 게시판 | 상세 |
-| :-: | :-: | :-: |
-| <img src="img/ss_05.jpg" width="200px" align="top"> | <img src="img/ss_01.jpg" width="200px" align="top"> | <img src="img/ss_02.jpg" width="200px" align="top"> |
-|  첨부 | 갤러리 | 회원 |
-| <img src="img/ss_04.jpg" width="200px" align="top"> | <img src="img/ss_03.jpg" width="200px" align="top"> | <img src="img/ss_06.jpg" width="200px" align="top">|
-
-
-<br>
 
 ## ⚡Project Career
 
