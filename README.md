@@ -44,7 +44,7 @@
 
 |  홈 | 상세 | 리스트 | 검색 |
 | :-: | :-: | :-: | :-: |
-| <img src="img/tmdb/ss_01.png" width="200px" align="top"> | <img src="img/tmdb/ss_02.png" width="200px" align="top"> | <img src="img/tmdb/ss_03.png" width="200px" align="top"> | <img src="img/tmdb/ss_04.png" width="200px" align="top"> |
+| <img src="img/tmdb/ss_01.jpg" width="200px" align="top"> | <img src="img/tmdb/ss_02.jpg" width="200px" align="top"> | <img src="img/tmdb/ss_03.jpg" width="200px" align="top"> | <img src="img/tmdb/ss_04.jpg" width="200px" align="top"> |
 
 
 
