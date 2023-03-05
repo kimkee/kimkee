@@ -30,6 +30,33 @@
 
 
 
+<br>
+## ⚡Status  
+<!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
+
+**2023년 01월 01일** 부터 프로젝트 투입가능합니다!
+
+<!-- > <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a> -->
+
+> <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a>
+
+
+``` js
+const profile = {
+    name: "김기현",
+    email: "kimkee@naver.com",
+    mobile: "010-3236-1677",
+    site: "kimkee.github.io",
+    locate: "Seoul Korea",
+    skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
+    opend:  true,
+    update: "2022-10-01",
+    call: e => {
+        ui.alert("Please contact me via email");
+    }
+};
+```
+
 
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) -->
@@ -63,33 +90,6 @@
 <!-- |  첨부 | 갤러리 | 회원 |
 | <img src="img/ss_04.jpg" width="200px" align="top"> | <img src="img/ss_06.jpg" width="200px" align="top">| -->
 
-
-<br>
-## ⚡Status  
-<!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
-
-**2023년 01월 01일** 부터 프로젝트 투입가능합니다!
-
-<!-- > <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a> -->
-
-> <a href="https://kimkee.github.io/" target="_blank">https://kimkee.github.io/</a>
-
-
-``` js
-const profile = {
-    name: "김기현",
-    email: "kimkee@naver.com",
-    mobile: "010-3236-1677",
-    site: "kimkee.github.io",
-    locate: "Seoul Korea",
-    skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
-    opend:  true,
-    update: "2022-10-01",
-    call: e => {
-        ui.alert("Please contact me via email");
-    }
-};
-```
 
 
 ![](https://img.shields.io/static/v1?label=Email&message=kimkee@naver.com&color=blueviolet) ![](https://img.shields.io/static/v1?label=Mobile&message=010-3236-1677&color=orange) 
