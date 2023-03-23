@@ -12,9 +12,9 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-43853d?style=flat-square&logo=Gulp&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white")
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-![Github](https://img.shields.io/badge/GitHub-%234083d5.svg?style=flat-square&logo=github&logoColor=white")
+![Github](https://img.shields.io/badge/GitHub-%234083d5.svg?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/Gitlab-%23302683.svg?style=flat-square&logo=Gitlab&logoColor=ffffff")
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=flat-square&logo=Bitbucket&logoColor=#0052CC")
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=flat-square&logo=Bitbucket)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=JiraSoftware)
 ![Svn](https://img.shields.io/badge/-SVN-0f80c1?style=flat-square&logo=Subversion&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-NPM-e72e35?style=flat-square&logo=npm&logoColor=ffffff)
@@ -26,9 +26,9 @@
 
 
 ### 👀 I'm practicing
-![Vue](https://img.shields.io/badge/-Vue-369369?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-369369?style=flat-square&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React)
+![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase)
 ![TMDB](https://img.shields.io/badge/-TMDB-01B4E4?style=flat-square&logo=TheMovieDatabase&logoColor=ffffff)
 
 
@@ -54,7 +54,7 @@ const profile = {
     locate: "Seoul Korea",
     skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
     opend:  true,
-    update: "2022-10-01",
+    update: "2023-03-31",
     call: e => {
         ui.alert("Please contact me via email");
     }
@@ -62,7 +62,7 @@ const profile = {
 ```
 
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
-<!-- ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) -->
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 <br>
 
 
