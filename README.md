@@ -29,6 +29,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-369369?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase&logoColor=ffffff)
+![TMDB](https://img.shields.io/badge/-TMDB-01B4E4?style=flat-square&logo=TheMovieDatabase&logoColor=ffffff)
 
 
 
