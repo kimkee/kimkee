@@ -100,7 +100,7 @@ const profile = {
 ![](https://img.shields.io/static/v1?label=Email&message=kimkee@naver.com&color=blueviolet) ![](https://img.shields.io/static/v1?label=Mobile&message=010-3236-1677&color=orange) 
 
 <img src="https://avatars.githubusercontent.com/u/6386956" width="20" height="20"> 
-
+<img src="https://avatars.githubusercontent.com/u/113664442" width="20" height="20"> 
 
 
 ## ⚡Project Career
