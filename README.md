@@ -1,7 +1,7 @@
 ## ⚡Tech   
 
-<!-- > ### Hi there 👋 -->
-<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right" width="100"></a> 
+<!-- > ### Hi there 👋 
+<a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right" width="100"></a> -->
 
 ![HTML](https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3)
