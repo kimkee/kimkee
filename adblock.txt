@@ -1,0 +1,80 @@
+[Adblock Plus 2.0]
+! Checksum: 
+! Version: 201802220400
+! Title: KimkeeAdBlock
+! Last modified: 22 Feb 2018 04:00 UTC
+! Expires: 1 days (update frequency)
+! Homepage: 
+! Licence: 
+!
+!-----------------------General advert blocking filters-----------------------!
+
+
+torrentmoa.com##CENTER
+torrentmoa.com##DIV[id="addon-popup-layer"]
+torrentmoa.com##A[href="http://www.10000w.kr/main?mall_id=torrentmoa&cm_id=x800x220"]
+torrentwal2.com##DIV[id*="left_ad_"]
+torrentonly1.com##DIV[class="top_bimg"]
+prod.danawa.com##DIV[class="ad_wide_slide"]
+
+
+slrclub.com##DIV[id="section3"]
+slrclub.com##DIV[id^="ad"]
+slrclub.com##DIV[class="cl_spc"]
+slrclub.com##DIV[id="ad1"]
+slrclub.com##DIV[class="bl_ban"]
+slrclub.com##INS[class*="adsbyadop"]
+slrclub.com##DIV[id="searchWrap"]
+slrclub.com##div[id="logo"]
+
+ddanzi.com##DIV[class="add_display center mt_0"]
+ddanzi.com##DIV[class="add_display center"]
+ddanzi.com##DIV[id="right_side_bar"] DIV[class="add_display"]
+instagram.com##DIV[class="_si7dy"]
+ppomppu.co.kr##DIV[class="power-link"]
+
+
+@@|https://www.daum.net/|$document
+@@|https://www.naver.com/|$document
+@@|https://www.daum.net/?$document
+@@||www.megabox.co.kr/$document
+@@||www.g9.co.kr/$document
+@@|https://www.pooq.co.kr/|$document
+@@|http://viewingcat.tistory.com/|$document
+
+@@|http://bc.vc/vsH9AHl|$document
+@@|http://bc.vc/1u8vC8I|$document
+
+@@||www.lottecinema.co.kr/$document
+@@||wemakeprice.com/$document
+
+speedtest.net##DIV[class="ad dfp-top-right"]
+speedtest.net##DIV[class="dfp-container"]
+speedtest.net##DIV[class="top-horizontal"]
+speedtest.net##DIV[class="ad lower-horizontal"]
+speedtest.net##DIV[class="top-horizontal"]
+speedtest.net##DIV[class="ads-column ads-right"]
+
+@@||promotion.wemakeprice.com/$document
+@@||www.lottecinema.co.kr/$document
+@@||www.lotteimall.com/$document
+@@||kr.msi.com/$document
+
+@@||wemakeprice.com/$document
+@@||tv.kakao.com/$document
+@@||daum.net/$document
+
+
+clien.net##DIV[class="list_top_ad"]
+clien.net##DIV[class="list_bottom_ad"]
+
+swiperjs.com##DIV[class="carbon"]
+prod.danawa.com##DIV[id="mainAdPoint"][class="main_ad_prodlist"]
+prod.danawa.com##DIV[id="mainAdReader"][class="main_ad_prodlist"]
+www.clien.net##DIV[id="div_content"] [class="board_upper_image"]
+m.clien.net##DIV[class="list_center_ad"]
+m.clien.net##DIV[class="main_section_contents"] [class="shop_naver"]
+www.clien.net##DIV[class*="board_upper_image"]
+www.clien.net###div_content .board_upper_html TABLE
+
+search.naver.com##DIV[class="ad_section section _pl_section bg_type_v2"]
