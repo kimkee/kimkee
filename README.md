@@ -54,7 +54,7 @@ const profile = {
     skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
     opend:  true,
     update: "2023-03-31",
-    call: e => {
+    call: ()=> {
         ui.alert("Please contact me via email");
     }
 };
