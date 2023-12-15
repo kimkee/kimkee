@@ -64,6 +64,7 @@ const profile = {
 <!-- ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) -->
 <br>
 
+
  <!-- ![PV](https://visitor-badge.glitch.me/badge?page_id=kimkee) -->
 ![](https://komarev.com/ghpvc/?username=kimkee&color=dc143c)
 <br>
@@ -97,8 +98,7 @@ const profile = {
 
 ![](https://img.shields.io/static/v1?label=Email&message=kimkee@naver.com&color=blueviolet) ![](https://img.shields.io/static/v1?label=Mobile&message=010-3236-1677&color=orange) 
 
-<img src="https://avatars.githubusercontent.com/u/6386956" width="20" height="20"> 
-<img src="https://avatars.githubusercontent.com/u/113664442" width="20" height="20"> 
+<img src="https://avatars.githubusercontent.com/u/6386956" width="20" height="20"> <img src="https://avatars.githubusercontent.com/u/113664442" width="20" height="20"> 
 
 
 ## ⚡Project Career
@@ -148,10 +148,13 @@ const profile = {
 </div>
 
 <br>
-
-<!--  ![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=true&theme=dark) -->
-
+<p align="left">
+<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=kimkee&include_all_commits=true&hide_border=true&theme=dark"/> 
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&lang&theme=dark)
+
+</p>
+<!--  ![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=true&theme=dark) -->
 
 
 
