@@ -64,8 +64,8 @@ const profile = {
 <!-- ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) -->
 <br>
 
- ![PV](https://visitor-badge.glitch.me/badge?page_id=kimkee)
-
+ <!-- ![PV](https://visitor-badge.glitch.me/badge?page_id=kimkee) -->
+![](https://komarev.com/ghpvc/?username=kimkee&color=dc143c)
 <br>
 
 ## React : <a href="https://kimkee.github.io/react/" target="_blank">https://kimkee.github.io/react/</a>
