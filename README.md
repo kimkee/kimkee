@@ -31,6 +31,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=ffdc34)
 ![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase)
 ![TMDB](https://img.shields.io/badge/-TMDB-01B4E4?style=flat-square&logo=TheMovieDatabase&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=ffffff)
 
 
 ## ⚡Status  
