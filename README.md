@@ -32,7 +32,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase)
 ![TMDB](https://img.shields.io/badge/-TMDB-01B4E4?style=flat-square&logo=TheMovieDatabase&logoColor=ffffff)
 ![Supabase](https://img.shields.io/badge/-Supabase-31a16e?style=flat-square&logo=supabase&logoColor=ffffff)
-
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=ffca28)
 
 ## ⚡Status  
 <!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
