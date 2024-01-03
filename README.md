@@ -151,6 +151,19 @@ const profile = {
 
 </div>
 
+### Kim Kee-Hyun's Career as a Web Publisher
+
+Kim Kee-Hyun has been working as a web publisher for over 32 years, starting in 2000. He began his career as a web design instructor, then transitioned to freelance web designer in 2002. From 2003 to 2008, he served as a design team leader for five years. He then returned to freelance web design from 2008 to 2011. Since 2011, he has worked on a variety of projects, including operations, competitive enhancement, web and mobile development, responsive hybrid app development, IoT platform development, mobile fashion SNS service development, mobile HR system development, web accessibility improvement, MVNO service development, web development, point mall development, and web design team leadership.
+
+### Key Highlights
+
+From 2003 to 2011, Kim Ki-hyun gained extensive experience in project management, team management, and design planning and development as a design team leader for eight years.
+From 2011 to present, he has gained a wide range of skills and experience in a variety of fields by working on a variety of projects, including operations, competitive enhancement, web and mobile development, responsive hybrid app development, IoT platform development, mobile fashion SNS service development, mobile HR system development, web accessibility improvement, MVNO service development, web development, point mall development, and web design team leadership.
+
+### Future Outlook
+
+Based on Kim Ki-hyun's career, it is expected that he will continue to develop his skills as a web publisher by working on a variety of projects in the future. He is also expected to further improve his project management skills based on his experience as a team leader.
+
 <br>
 <p align="left">
 <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=kimkee&include_all_commits=true&hide_border=true&theme=dark"/> 
