@@ -28,11 +28,13 @@
 ### 👀 I'm practicing
 ![Vue](https://img.shields.io/badge/-Vue-369369?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React)
+![Next](https://img.shields.io/badge/-Next-444444?style=flat-square&logo=Next.js&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=ffdc34)
 ![Firebase](https://img.shields.io/badge/-Firebase-f28500?style=flat-square&logo=Firebase)
 ![TMDB](https://img.shields.io/badge/-TMDB-01B4E4?style=flat-square&logo=TheMovieDatabase&logoColor=ffffff)
 ![Supabase](https://img.shields.io/badge/-Supabase-31a16e?style=flat-square&logo=supabase&logoColor=3ecf8e)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=ffca28)
+
 
 ## ⚡Status  
 <!-- <div align="right">💰💰💰💰💰💰💸/📆</div> -->
