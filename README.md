@@ -107,9 +107,10 @@ const profile = {
 
 <br>
 <p align="left">
-<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=kimkee&include_all_commits=true&hide_border=true&theme=dark"/> 
-    
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkee&layout=compact&lang&theme=dark)
+ 
+<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=kimkee&include_all_commits=true&hide_border=true&theme=dark"/>
 
 </p>
 
