@@ -108,6 +108,9 @@ const profile = {
 
 <div style="font-size:12px; line-height:1.8">
 <br>
+<details>
+<summary>View Career by Year</summary>
+<div markdown="1">
 
 
 | Date | Project Name|
@@ -149,6 +152,10 @@ const profile = {
 | 2002-09 ~ 2003-10 | 프리랜서 웹디자이너 |
 | 2002-03 ~ 2002-09 | 주디자인 웹디자이너 |
 | 2000-06 ~ 2002-03 | 그린컴퓨터아트스쿨 웹디자인 강사 |
+
+</div>
+</details>
+
 
 </div>
 
