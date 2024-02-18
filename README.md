@@ -117,7 +117,7 @@ const profile = {
 <div style="font-size:16px; line-height:1.8">
 <br>
 <details>
-<summary>View Career by Year </summary>
+<summary><u>View Career by Year</u> </summary>
  <br>
 <div markdown="1">
 
