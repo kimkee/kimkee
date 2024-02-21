@@ -137,7 +137,7 @@ const profile = {
 | 2016-08 ~ 2016-09 | 삼성SDS EFSS 기업용SNS 구축 |
 
 <div style="font-size:16px; line-height:1.8">
-<br>
+
 <details>
 <summary><u>More Career List</u> </summary>
  <br>
