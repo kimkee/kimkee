@@ -114,13 +114,6 @@ const profile = {
 
 </p>
 
-<div style="font-size:16px; line-height:1.8">
-<br>
-<details>
-<summary><u>View Career by Year</u> </summary>
- <br>
-<div markdown="1">
-
 | Date | Project Name|
 | :---: | :--- |
 | 2022-11 ~ 2023-12 | 롯데카드사 운영 |
@@ -142,6 +135,16 @@ const profile = {
 | 2016-10 ~ 2016-12 | CJ휘슬 반응형웹 구축 |
 | 2016-10 ~ 2016-11 | CJ텔레닉스 반응형웹 구축 |
 | 2016-08 ~ 2016-09 | 삼성SDS EFSS 기업용SNS 구축 |
+
+<div style="font-size:16px; line-height:1.8">
+<br>
+<details>
+<summary><u>More Career List</u> </summary>
+ <br>
+<div markdown="1">
+
+| Date | Project Name|
+| :---: | :--- |
 | 2015-06 ~ 2016-07 | 스포플레이 웹사이트 구축 |
 | 2015-03 ~ 2015-05 | TV벼룩시장 모바일쇼핑 더블유쇼핑 구축 |
 | 2014-10 ~ 2015-02 | 한화갤러리아 명품관 고메이494 쇼핑 구축 |
