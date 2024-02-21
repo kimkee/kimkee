@@ -114,6 +114,8 @@ const profile = {
 
 </p>
 
+### ⚡Career List 
+
 | Date | Project Name|
 | :---: | :--- |
 | 2022-11 ~ 2023-12 | 롯데카드사 운영 |
@@ -132,19 +134,19 @@ const profile = {
 | 2018-04 ~ 2018-08 | 인스테리어 웹,앱반응형 구축 |
 | 2017-09 ~ 2018-03 | 아이디룩 이커머스 구축 |
 | 2016-01 ~ 2017-08 | 롯데 묘미 웹,모바일 구축 |
-| 2016-10 ~ 2016-12 | CJ휘슬 반응형웹 구축 |
-| 2016-10 ~ 2016-11 | CJ텔레닉스 반응형웹 구축 |
-| 2016-08 ~ 2016-09 | 삼성SDS EFSS 기업용SNS 구축 |
 
 <div style="font-size:16px; line-height:1.8">
 
 <details>
-<summary><u>More Career List</u> </summary>
+<summary><u>More Career List I</u> </summary>
  <br>
 <div markdown="1">
 
 | Date | Project Name|
 | :---: | :--- |
+| 2016-10 ~ 2016-12 | CJ휘슬 반응형웹 구축 |
+| 2016-10 ~ 2016-11 | CJ텔레닉스 반응형웹 구축 |
+| 2016-08 ~ 2016-09 | 삼성SDS EFSS 기업용SNS 구축 |
 | 2015-06 ~ 2016-07 | 스포플레이 웹사이트 구축 |
 | 2015-03 ~ 2015-05 | TV벼룩시장 모바일쇼핑 더블유쇼핑 구축 |
 | 2014-10 ~ 2015-02 | 한화갤러리아 명품관 고메이494 쇼핑 구축 |
@@ -152,6 +154,16 @@ const profile = {
 | 2014-02 ~ 2014-05 | 비상교육 한국어교육사이트 웹 구축  |
 | 2013-10 ~ 2014-01 | 삼성전자메신져 ChatOn 웹접근성 고도화 |
 | 2013-03 ~ 2013-10 | 호텔신라 웹,모바일 구축 |
+</div>
+</details>
+
+<details>
+<summary><u>More Career List II</u> </summary>
+ <br>
+<div markdown="1">
+
+| Date | Project Name|
+| :---: | :--- |
 | 2013-01 ~ 2013-02 | SK T스토어 정산시스템개발 구축 |
 | 2012-10 ~ 2012-12 | 홈플러스 MVNO서비스 구축 |
 | 2012-01 ~ 2012-10 | 삼성전자메신져 ChatOn 웹 구축 |
@@ -166,7 +178,6 @@ const profile = {
 
 </div>
 </details>
-
 
 </div>
 
