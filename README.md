@@ -81,11 +81,7 @@ const profile = {
 
 <br>
 
-
-
 ### VUE : <a href="https://kimkee.github.io/vue/" target="_blank">https://kimkee.github.io/vue/</a>
-
-
 
 |  챗팅 | 갤러리 | 게시판 | 상세 |
 | :-: | :-: | :-: |:-: |
