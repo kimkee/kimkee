@@ -113,9 +113,7 @@ const profile = {
 
 
 <details open>
-  <summary>Career List I </u> </summary>
-  <br>
-  <div markdown="1">
+  <summary>Career List I </summary>
    
 | Date | Project Name|
 | :---: | :--- |
@@ -136,83 +134,47 @@ const profile = {
 | 2017-09 ~ 2018-03 | 아이디룩 이커머스 구축 |
 | 2016-01 ~ 2017-08 | 롯데 묘미 웹,모바일 구축 |
 
-  </div>
 </details>
 
 
 <details>
-  <summary>Career List II</u> </summary>
+  <summary>Career List II</summary>
   <br>
-  <div markdown="1">
-   
-  | Date | Project Name|
-  | :---: | :--- |
-  | 2016-10 ~ 2016-12 | CJ휘슬 반응형웹 구축 |
-  | 2016-10 ~ 2016-11 | CJ텔레닉스 반응형웹 구축 |
-  | 2016-08 ~ 2016-09 | 삼성SDS EFSS 기업용SNS 구축 |
-  | 2015-06 ~ 2016-07 | 스포플레이 웹사이트 구축 |
-  | 2015-03 ~ 2015-05 | TV벼룩시장 모바일쇼핑 더블유쇼핑 구축 |
-  | 2014-10 ~ 2015-02 | 한화갤러리아 명품관 고메이494 쇼핑 구축 |
-  | 2014-05 ~ 2014-10 | 실시간스포츠배팅시스템 사이트 웹,모바일 구축 |
-  | 2014-02 ~ 2014-05 | 비상교육 한국어교육사이트 웹 구축  |
-  | 2013-10 ~ 2014-01 | 삼성전자메신져 ChatOn 웹접근성 고도화 |
-  | 2013-03 ~ 2013-10 | 호텔신라 웹,모바일 구축 |
-  </div>
-</details>
-
-<details>
-  <summary>Career List III </summary>
-  <br>
-  <div markdown="1">
-   
-  | Date | Project Name|
-  | :---: | :--- |
-  | 2013-01 ~ 2013-02 | SK T스토어 정산시스템개발 구축 |
-  | 2012-10 ~ 2012-12 | 홈플러스 MVNO서비스 구축 |
-  | 2012-01 ~ 2012-10 | 삼성전자메신져 ChatOn 웹 구축 |
-  | 2011-08 ~ 2011-12 | 삼성지식경영시스템(아리샘) 구축 |
-  | 2011-03 ~ 2011-07 | 현대홈쇼핑 KB/CT카드 포인트리몰 구축 |
-  | 2009-10 ~ 2011-03 | 이야인터렉티브 웹퍼블리셔 |
-  | 2009-04 ~ 2009-06 | 서울시TBS교통방송 구축 |
-  | 2003-11 ~ 2008-10 | 넷타임소프트 디자인팀장 |
-  | 2002-09 ~ 2003-10 | 프리랜서 웹디자이너 |
-  | 2002-03 ~ 2002-09 | 주디자인 웹디자이너 |
-  | 2000-06 ~ 2002-03 | 그린컴퓨터아트스쿨 웹디자인 강사 |
   
-  </div>
+| Date | Project Name|
+| :---: | :--- |
+| 2016-10 ~ 2016-12 | CJ휘슬 반응형웹 구축 |
+| 2016-10 ~ 2016-11 | CJ텔레닉스 반응형웹 구축 |
+| 2016-08 ~ 2016-09 | 삼성SDS EFSS 기업용SNS 구축 |
+| 2015-06 ~ 2016-07 | 스포플레이 웹사이트 구축 |
+| 2015-03 ~ 2015-05 | TV벼룩시장 모바일쇼핑 더블유쇼핑 구축 |
+| 2014-10 ~ 2015-02 | 한화갤러리아 명품관 고메이494 쇼핑 구축 |
+| 2014-05 ~ 2014-10 | 실시간스포츠배팅시스템 사이트 웹,모바일 구축 |
+| 2014-02 ~ 2014-05 | 비상교육 한국어교육사이트 웹 구축  |
+| 2013-10 ~ 2014-01 | 삼성전자메신져 ChatOn 웹접근성 고도화 |
+| 2013-03 ~ 2013-10 | 호텔신라 웹,모바일 구축 |
+  
 </details>
 
-
-
-<!-- 
-### Kim Kee-Hyun's Career as a Web Publisher
-
-Kim Kee-Hyun has been working as a web publisher for over 22 years, starting in 2000. He began his career as a web design instructor, then transitioned to freelance web designer in 2002. From 2003 to 2008, he served as a design team leader for five years. He then returned to freelance web design from 2008 to 2011. Since 2011, he has worked on a variety of projects, including operations, competitive enhancement, web and mobile development, responsive hybrid app development, IoT platform development, mobile fashion SNS service development, mobile HR system development, web accessibility improvement, MVNO service development, web development, point mall development, and web design team leadership.
-
-### Key Highlights
-
-From 2003 to 2011, Kim Ki-hyun gained extensive experience in project management, team management, and design planning and development as a design team leader for eight years.
-From 2011 to present, he has gained a wide range of skills and experience in a variety of fields by working on a variety of projects, including operations, competitive enhancement, web and mobile development, responsive hybrid app development, IoT platform development, mobile fashion SNS service development, mobile HR system development, web accessibility improvement, MVNO service development, web development, point mall development, and web design team leadership.
-
-### Future Outlook
-
-Based on Kim Ki-hyun's career, it is expected that he will continue to develop his skills as a web publisher by working on a variety of projects in the future. He is also expected to further improve his project management skills based on his experience as a team leader. 
--->
-
-<!--  ![kimkee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkee&show_icons=true&theme=dark) -->
-
-
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
-
+<details>
+  <summary>Career List III</summary>
+  <br>
+   
+| Date | Project Name|
+| :---: | :--- |
+| 2013-01 ~ 2013-02 | SK T스토어 정산시스템개발 구축 |
+| 2012-10 ~ 2012-12 | 홈플러스 MVNO서비스 구축 |
+| 2012-01 ~ 2012-10 | 삼성전자메신져 ChatOn 웹 구축 |
+| 2011-08 ~ 2011-12 | 삼성지식경영시스템(아리샘) 구축 |
+| 2011-03 ~ 2011-07 | 현대홈쇼핑 KB/CT카드 포인트리몰 구축 |
+| 2009-10 ~ 2011-03 | 이야인터렉티브 웹퍼블리셔 |
+| 2009-04 ~ 2009-06 | 서울시TBS교통방송 구축 |
+| 2003-11 ~ 2008-10 | 넷타임소프트 디자인팀장 |
+| 2002-09 ~ 2003-10 | 프리랜서 웹디자이너 |
+| 2002-03 ~ 2002-09 | 주디자인 웹디자이너 |
+| 2000-06 ~ 2002-03 | 그린컴퓨터아트스쿨 웹디자인 강사 |
+  
+</details>
 
 
 
