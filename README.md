@@ -114,7 +114,8 @@ const profile = {
 
 <details open>
   <summary>Career List I </summary>
-   
+  <br>
+ 
 | Date | Project Name|
 | :---: | :--- |
 | 2022-11 ~ 2023-12 | 롯데카드사 운영 |
