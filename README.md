@@ -110,8 +110,13 @@ const profile = {
 
 </p>
 
-### ⚡Career List 
 
+
+<details open>
+  <summary>Career List I </u> </summary>
+  <br>
+  <div markdown="1">
+   
 | Date | Project Name|
 | :---: | :--- |
 | 2022-11 ~ 2023-12 | 롯데카드사 운영 |
@@ -131,10 +136,12 @@ const profile = {
 | 2017-09 ~ 2018-03 | 아이디룩 이커머스 구축 |
 | 2016-01 ~ 2017-08 | 롯데 묘미 웹,모바일 구축 |
 
-<div style="font-size:16px; line-height:1.8">
+  </div>
+</details>
+
 
 <details>
-  <summary><u>More Career List I</u> </summary>
+  <summary>Career List II</u> </summary>
   <br>
   <div markdown="1">
    
@@ -154,7 +161,7 @@ const profile = {
 </details>
 
 <details>
-  <summary><u>More Career List II</u> </summary>
+  <summary>Career List III </summary>
   <br>
   <div markdown="1">
    
@@ -175,7 +182,7 @@ const profile = {
   </div>
 </details>
 
-</div>
+
 
 <!-- 
 ### Kim Kee-Hyun's Career as a Web Publisher
