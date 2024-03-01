@@ -113,7 +113,7 @@ const profile = {
 
 
 <details open>
-  <summary>Career List I </summary>
+  <summary>⚡Career List I </summary>
   <br>
  
 | Date | Project Name|
@@ -139,7 +139,7 @@ const profile = {
 
 
 <details>
-  <summary>Career List II</summary>
+  <summary>⚡Career List II </summary>
   <br>
   
 | Date | Project Name|
@@ -158,7 +158,7 @@ const profile = {
 </details>
 
 <details>
-  <summary>Career List III</summary>
+  <summary>⚡Career List III</summary>
   <br>
    
 | Date | Project Name|
