@@ -138,7 +138,7 @@ const profile = {
 </details>
 
 
-<details>
+<details open>
   <summary>⚡Career List II </summary>
   <br>
   
@@ -157,7 +157,7 @@ const profile = {
   
 </details>
 
-<details>
+<details open>
   <summary>⚡Career List III</summary>
   <br>
    
