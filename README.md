@@ -113,7 +113,7 @@ const profile = {
 
 
 <details open>
-  <summary>⚡Career List I </summary>
+  <summary>⚡Career List </summary>
   <br>
  
 | Date | Project Name|
@@ -134,16 +134,6 @@ const profile = {
 | 2018-04 ~ 2018-08 | 인스테리어 웹,앱반응형 구축 |
 | 2017-09 ~ 2018-03 | 아이디룩 이커머스 구축 |
 | 2016-01 ~ 2017-08 | 롯데 묘미 웹,모바일 구축 |
-
-</details>
-
-
-<details open>
-  <summary>⚡Career List II </summary>
-  <br>
-  
-| Date | Project Name|
-| :---: | :--- |
 | 2016-10 ~ 2016-12 | CJ휘슬 반응형웹 구축 |
 | 2016-10 ~ 2016-11 | CJ텔레닉스 반응형웹 구축 |
 | 2016-08 ~ 2016-09 | 삼성SDS EFSS 기업용SNS 구축 |
@@ -154,15 +144,6 @@ const profile = {
 | 2014-02 ~ 2014-05 | 비상교육 한국어교육사이트 웹 구축  |
 | 2013-10 ~ 2014-01 | 삼성전자메신져 ChatOn 웹접근성 고도화 |
 | 2013-03 ~ 2013-10 | 호텔신라 웹,모바일 구축 |
-  
-</details>
-
-<details open>
-  <summary>⚡Career List III</summary>
-  <br>
-   
-| Date | Project Name|
-| :---: | :--- |
 | 2013-01 ~ 2013-02 | SK T스토어 정산시스템개발 구축 |
 | 2012-10 ~ 2012-12 | 홈플러스 MVNO서비스 구축 |
 | 2012-01 ~ 2012-10 | 삼성전자메신져 ChatOn 웹 구축 |
