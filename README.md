@@ -52,7 +52,7 @@ const profile = {
     mobile: "010-3236-1677",
     site: "kimkee.github.io",
     locate: "Seoul Korea",
-    skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
+    skill: ["HTML", "CSS", "Javascript" ,"React", "Vue", "Git", "SASS", "Gulp", "NPM"],
     opend:  true,
     update: "2024-02-03",
     call: ()=> {
