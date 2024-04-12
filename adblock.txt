@@ -34,9 +34,9 @@ instagram.com##DIV[class="_si7dy"]
 ppomppu.co.kr##DIV[class="power-link"]
 
 
-@@|https://www.daum.net/|$document
+
 @@|https://www.naver.com/|$document
-@@|https://www.daum.net/?$document
+
 @@||www.megabox.co.kr/$document
 @@||www.g9.co.kr/$document
 @@|https://www.pooq.co.kr/|$document
@@ -62,7 +62,7 @@ speedtest.net##DIV[class="ads-column ads-right"]
 
 @@||wemakeprice.com/$document
 @@||tv.kakao.com/$document
-@@||daum.net/$document
+
 
 
 clien.net##DIV[class="list_top_ad"]
