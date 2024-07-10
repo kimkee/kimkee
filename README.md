@@ -1,5 +1,5 @@
 ### ⚡Tech 
-            
+             
 <!-- > ### Hi there 👋   
 <a href="https://kimkee.github.io/" target="_blank"><img src="https://kimkee.github.io/img/cm/forSale.png" align="right" width="100"></a> -->
 <!-- ![Jquery](https://img.shields.io/badge/-Jquery-%230769ad?style=flat-square&logo=javascript&logoColor=ffffff) -->
@@ -54,7 +54,7 @@ const profile = {
     locate: "Seoul Korea",
     skill: ["HTML", "CSS", "Javascript" ,"React", "Vue", "Git", "SASS", "Gulp", "NPM"],
     opend:  true,
-    update: "2024-02-03",
+    update: "2024-07-10",
     call: ()=> {
         ui.alert("Please contact me via email");
     }
