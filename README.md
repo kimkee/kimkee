@@ -120,43 +120,43 @@ const profile = {
  
 | Date | Project Name (Korean) | Project Name (English) |
 | :---: | :--- | :--- |
-| 2022-11 ~ 2024-12 | 롯데카드사 운영 | Lotte Card Operation |
-| 2021-05 ~ 2022-10 | KB금융그룹 경쟁력강화 고도화 | KB Financial Group Competitiveness Enhancement |
-| 2021-09 ~ 2022-04 | 교보생명 웹,모바일 구축 | Kyobo Life Web and Mobile Construction |
-| 2021-04 ~ 2021-08 | 롯데하이마트 중고거래 플랫폼 하트마켓 구축 | Lotte Himart Second-hand Transaction Platform Heart Market Construction |
-| 2021-01 ~ 2021-03 | GS리테일 어바웃펫 모바일웹,앱 구축 | GS Retail About Pet Mobile Web and App Construction |
-| 2020-08 ~ 2020-12 | 서울시업무관리시스템 반응형 하이브리드앱 구축 | Seoul City Office Management System Responsive Hybrid App Construction |
-| 2020-06 ~ 2020-07 | 스포츠토토 배트맨리뉴얼 구축 | Sports Toto Batman Renewal Construction |
-| 2019-09 ~ 2020-05 | 현대엘리베이터 BS IoT 플랫폼 구축 | Hyundai Elevator BS IoT Platform Construction |
-| 2019-06 ~ 2019-08 | FAPEE 모바일 패션SNS서비스 구축 | FAPEE Mobile Fashion SNS Service Construction |
-| 2019-04 ~ 2019-05 | CJ 올리브영 인사시스템 모바일 구축 | CJ Olive Young HR System Mobile Construction |
-| 2019-03 ~ 2019-03 | 삼성닷컴운영 | Samsung.com Operation |
-| 2018-11 ~ 2019-02 | MLB코리아 웹모바일 구축 | MLB Korea Web and Mobile Construction |
-| 2018-09 ~ 2018-10 | 하이마트 모바일 구축 | Hi-Mart Mobile Construction |
-| 2018-04 ~ 2018-08 | 인스테리어 웹,앱반응형 구축 | Insterior Web and Responsive App Construction |
-| 2017-09 ~ 2018-03 | 아이디룩 이커머스 구축 | Idlook E-commerce Construction |
-| 2016-01 ~ 2017-08 | 롯데 묘미 웹,모바일 구축 | Lotte Myom Web and Mobile Construction |
-| 2016-10 ~ 2016-12 | CJ휘슬 반응형웹 구축 | CJ Whistle Responsive Web Construction |
-| 2016-10 ~ 2016-11 | CJ텔레닉스 반응형웹 구축 | CJ Telenix Responsive Web Construction |
-| 2016-08 ~ 2016-09 | 삼성SDS EFSS 기업용SNS 구축 | Samsung SDS EFSS Enterprise SNS Construction |
-| 2015-06 ~ 2016-07 | 스포플레이 웹사이트 구축 | Spoplay Website Construction |
-| 2015-03 ~ 2015-05 | TV벼룩시장 모바일쇼핑 더블유쇼핑 구축 | TV Flea Market Mobile Shopping W Shopping Construction |
-| 2014-10 ~ 2015-02 | 한화갤러리아 명품관 고메이494 쇼핑 구축 | Hanwha Galleria Luxury Hall Gourmet 494 Shopping Construction |
-| 2014-05 ~ 2014-10 | 실시간스포츠배팅시스템 사이트 웹,모바일 구축 | Real-time Sports Betting System Site Web and Mobile Construction |
-| 2014-02 ~ 2014-05 | 비상교육 한국어교육사이트 웹 구축 | Visang Education Korean Language Education Site Web Construction |
-| 2013-10 ~ 2014-01 | 삼성전자메신져 ChatOn 웹접근성 고도화 | Samsung Electronics Messenger ChatOn Web Accessibility Enhancement |
-| 2013-03 ~ 2013-10 | 호텔신라 웹,모바일 구축 | Hotel Shilla Web and Mobile Construction |
-| 2013-01 ~ 2013-02 | SK T스토어 정산시스템개발 구축 | SK T Store Settlement System Development Construction |
-| 2012-10 ~ 2012-12 | 홈플러스 MVNO서비스 구축 | Homeplus MVNO Service Construction |
-| 2012-01 ~ 2012-10 | 삼성전자메신져 ChatOn 웹 구축 | Samsung Electronics Messenger ChatOn Web Construction |
-| 2011-08 ~ 2011-12 | 삼성지식경영시스템(아리샘) 구축 | Samsung Knowledge Management System (Arisam) Construction |
-| 2011-03 ~ 2011-07 | 현대홈쇼핑 KB/CT카드 포인트리몰 구축 | Hyundai Home Shopping KB/CT Card Point Mall Construction |
+| 2022-11 ~ 2024-12 | 롯데카드사 운영 | Lotte Card Operations |
+| 2021-05 ~ 2022-10 | KB금융그룹 경쟁력강화 고도화 | KB Financial Group Enhancement |
+| 2021-09 ~ 2022-04 | 교보생명 웹,모바일 구축 | Kyobo Life Web/Mobile |
+| 2021-04 ~ 2021-08 | 롯데하이마트 중고거래 플랫폼 하트마켓 구축 | Lotte Himart Heart Market |
+| 2021-01 ~ 2021-03 | GS리테일 어바웃펫 모바일웹,앱 구축 | GS Retail About Pet Web/App |
+| 2020-08 ~ 2020-12 | 서울시업무관리시스템 반응형 하이브리드앱 구축 | Seoul Office Hybrid App |
+| 2020-06 ~ 2020-07 | 스포츠토토 배트맨리뉴얼 구축 | Sports Toto Renewal |
+| 2019-09 ~ 2020-05 | 현대엘리베이터 BS IoT 플랫폼 구축 | Hyundai Elevator IoT Platform |
+| 2019-06 ~ 2019-08 | FAPEE 모바일 패션SNS서비스 구축 | FAPEE Fashion SNS |
+| 2019-04 ~ 2019-05 | CJ 올리브영 인사시스템 모바일 구축 | CJ Olive Young HR Mobile |
+| 2019-03 ~ 2019-03 | 삼성닷컴운영 | Samsung.com Operations |
+| 2018-11 ~ 2019-02 | MLB코리아 웹모바일 구축 | MLB Korea Web/Mobile |
+| 2018-09 ~ 2018-10 | 하이마트 모바일 구축 | Hi-Mart Mobile |
+| 2018-04 ~ 2018-08 | 인스테리어 웹,앱반응형 구축 | Insterior Web/App |
+| 2017-09 ~ 2018-03 | 아이디룩 이커머스 구축 | Idlook E-commerce |
+| 2016-01 ~ 2017-08 | 롯데 묘미 웹,모바일 구축 | Lotte Myom Web/Mobile |
+| 2016-10 ~ 2016-12 | CJ휘슬 반응형웹 구축 | CJ Whistle Responsive Web |
+| 2016-10 ~ 2016-11 | CJ텔레닉스 반응형웹 구축 | CJ Telenix Responsive Web |
+| 2016-08 ~ 2016-09 | 삼성SDS EFSS 기업용SNS 구축 | Samsung SDS EFSS SNS |
+| 2015-06 ~ 2016-07 | 스포플레이 웹사이트 구축 | Spoplay Website |
+| 2015-03 ~ 2015-05 | TV벼룩시장 모바일쇼핑 더블유쇼핑 구축 | TV Flea Market W Shopping |
+| 2014-10 ~ 2015-02 | 한화갤러리아 명품관 고메이494 쇼핑 구축 | Hanwha Galleria Gourmet 494 |
+| 2014-05 ~ 2014-10 | 실시간스포츠배팅시스템 사이트 웹,모바일 구축 | Real-time Sports Betting |
+| 2014-02 ~ 2014-05 | 비상교육 한국어교육사이트 웹 구축 | Visang Education Korean |
+| 2013-10 ~ 2014-01 | 삼성전자메신져 ChatOn 웹접근성 고도화 | Samsung ChatOn Web |
+| 2013-03 ~ 2013-10 | 호텔신라 웹,모바일 구축 | Hotel Shilla Web/Mobile |
+| 2013-01 ~ 2013-02 | SK T스토어 정산시스템개발 구축 | SK T Store Settlement |
+| 2012-10 ~ 2012-12 | 홈플러스 MVNO서비스 구축 | Homeplus MVNO |
+| 2012-01 ~ 2012-10 | 삼성전자메신져 ChatOn 웹 구축 | Samsung ChatOn Web |
+| 2011-08 ~ 2011-12 | 삼성지식경영시스템(아리샘) 구축 | Samsung Knowledge Management |
+| 2011-03 ~ 2011-07 | 현대홈쇼핑 KB/CT카드 포인트리몰 구축 | Hyundai KB/CT Point Mall |
 | 2009-10 ~ 2011-03 | 이야인터렉티브 웹퍼블리셔 | Iya Interactive Web Publisher |
-| 2009-04 ~ 2009-06 | 서울시TBS교통방송 구축 | Seoul TBS Traffic Broadcasting Construction |
-| 2003-11 ~ 2008-10 | 넷타임소프트 디자인팀장 | NetTimeSoft Design Team Leader |
+| 2009-04 ~ 2009-06 | 서울시TBS교통방송 구축 | Seoul TBS Traffic |
+| 2003-11 ~ 2008-10 | 넷타임소프트 디자인팀장 | NetTimeSoft Design Lead |
 | 2002-09 ~ 2003-10 | 프리랜서 웹디자이너 | Freelance Web Designer |
 | 2002-03 ~ 2002-09 | 주디자인 웹디자이너 | Joo Design Web Designer |
-| 2000-06 ~ 2002-03 | 그린컴퓨터아트스쿨 웹디자인 강사 | Green Computer Art School Web Design Instructor |
+| 2000-06 ~ 2002-03 | 그린컴퓨터아트스쿨 웹디자인 강사 | Green Art School Instructor |
   
 </details>
 
