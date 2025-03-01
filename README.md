@@ -57,7 +57,7 @@ const profile = {
     locate: "Seoul Korea",
     skill: ["HTML", "CSS", "Javascript" ,"React", "Vue", "Git", "SASS", "Gulp", "NPM"],
     opend:  true,
-    update: "2025-02-28",
+    update: "2025-03-01",
     call: ()=> {
         ui.alert("Please contact me via email");
     }
