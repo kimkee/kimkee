@@ -52,7 +52,6 @@
 const profile = {
     name: "김기현",
     email: "kimkee@naver.com",
-    mobile: "010-3236-1677",
     site: "kimkee.github.io",
     locate: "Seoul Korea",
     skill: ["HTML", "CSS", "Javascript" ,"React", "Vue", "Git", "SASS", "Gulp", "NPM"],
