@@ -1,4 +1,4 @@
-# 파일 경로: C:\scripts\update-github.ps1
+# 파일 경로: D:\workspace\kimkee\update-github.ps1
 
 $repoPath = "D:\workspace\kimkee"
 $updateFile = "$repoPath\update.json"
@@ -12,8 +12,8 @@ $today = Get-Date -Format "yyyy-MM-dd"
 "@ | Set-Content -Encoding UTF8 $updateFile
 
 # Git 작업
-cd $repoPath
+Set-Location $repoPath
 git pull
 git add update.json
-git commit -m "Update on $today"
+git commit -m "Update Readme on $today"
 git push
