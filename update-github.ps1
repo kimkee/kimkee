@@ -2,7 +2,7 @@
 
 $repoPath = "D:\workspace\kimkee"
 $updateFile = "$repoPath\update.json"
-$today = Get-Date -Format "yyyy-MM-dd--HH-mm-ss"
+$today = Get-Date -Format "yyyy-MM-dd-HH-mm-ss"
 
 # JSON 파일 덮어쓰기
 @"
