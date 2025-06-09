@@ -26,6 +26,9 @@ slrclub.com##DIV[class="bl_ban"]
 slrclub.com##INS[class*="adsbyadop"]
 slrclub.com##DIV[id="searchWrap"]
 slrclub.com##div[id="logo"]
+slrclub.com##DIV[id="section2"] [style="margin-bottom: 5px;"]
+slrclub.com##DIV[id="slrct"] [style="margin-bottom:5px"]
+
 
 ddanzi.com##DIV[class="add_display center mt_0"]
 ddanzi.com##DIV[class="add_display center"]
