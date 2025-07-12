@@ -17,6 +17,8 @@ torrentwal2.com##DIV[id*="left_ad_"]
 torrentonly1.com##DIV[class="top_bimg"]
 prod.danawa.com##DIV[class="ad_wide_slide"]
 
+mail.naver.com##DIV[class="smart_channel"]
+
 
 slrclub.com##DIV[id="section3"]
 slrclub.com##DIV[id^="ad"]
@@ -76,6 +78,7 @@ clien.net##DIV[class="list_bottom_ad"]
 swiperjs.com##DIV[class="carbon"]
 prod.danawa.com##DIV[id="mainAdPoint"][class="main_ad_prodlist"]
 prod.danawa.com##DIV[id="mainAdReader"][class="main_ad_prodlist"]
+prod.danawa.com##DIV[id="mainAdReader"]
 www.clien.net##DIV[id="div_content"] [class="board_upper_image"]
 m.clien.net##DIV[class="list_center_ad"]
 m.clien.net##DIV[class="main_section_contents"] [class="shop_naver"]
