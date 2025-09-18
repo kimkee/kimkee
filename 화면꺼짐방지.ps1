@@ -27,8 +27,8 @@ try {
         Write-Output "  ========================="
         Write-Output "  $TIME"
         Write-Output "  $(Get-Date -Format "yyyy-MM-dd HH:mm:ss") "
-        Start-Sleep -Seconds 3
-        cls # 화면 지우기
+        Start-Sleep -Seconds 33
+        Clear-Host # 화면 지우기
     }
 } finally {
     [SleepBlock]::SetThreadExecutionState([SleepBlock]::ES_CONTINUOUS) | Out-Null
