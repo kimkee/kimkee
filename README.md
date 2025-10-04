@@ -119,7 +119,7 @@ const profile = {
  
 | Date | Project Name (Korean) | Project Name (English) |
 | :---: | :--- | :--- |
-| 2022-11 ~ 2024-12 | 롯데카드사 운영 | Lotte Card Operations |
+| 2022-11 ~ 2025-12 | 롯데카드사 운영 | Lotte Card Operations |
 | 2021-05 ~ 2022-10 | KB금융그룹 경쟁력강화 고도화 | KB Financial Group Enhancement |
 | 2021-09 ~ 2022-04 | 교보생명 웹,모바일 구축 | Kyobo Life Web/Mobile |
 | 2021-04 ~ 2021-08 | 롯데하이마트 중고거래 플랫폼 하트마켓 구축 | Lotte Himart Heart Market |
