@@ -86,3 +86,25 @@ www.clien.net##DIV[class*="board_upper_image"]
 www.clien.net###div_content .board_upper_html TABLE
 
 search.naver.com##DIV[class="ad_section section _pl_section bg_type_v2"]
+
+
+www.clien.net##DIV[class="list_top_kcmdjfkejf"]
+www.clien.net##DIV[class="view_center_idlfksyenf"]
+@@||rdsong.com^$document
+@@||helloox.tistory.com^$document
+@@||coconuts.tistory.com^$document
+prod.danawa.com##DIV[class="banner_area h_type "]
+www.slrclub.com##DIV[id="section2"] DIV  DIV[style^="margin-bottom: 5px;"]
+search.naver.com##DIV[class="sc_new ad_section section _pl_section bg_type_v2 type_improve type_phase1"]
+@@||jimnong.tistory.com^$document
+mail.naver.com##DIV[class="smart_channel"]
+simpleicons.org##DIV[id="carbonads"]
+gall.dcinside.com##DIV[id="rbox-c2m"][class="trc_rbox_div trc_rbox_border_elm"]
+www.tfreeca22.com##body>table>tbody>tr>td:nth-child(1)
+tvwiki13.com##UL[id="bannerList"][class="banner2"]
+tvwiki13.com##DIV[id="bo_v"]>ul
+@@||slrclub.com^$document
+clien.net##DIV[class="board_upper_image "]
+clien.net##DIV[class="list_top_kcmdjfkejf"]
+www.speedtest.net##DIV[class="top-placeholder"]
+www.speedtest.net##DIV[id="stnext_lowerboard"]
