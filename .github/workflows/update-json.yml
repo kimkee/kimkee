@@ -23,7 +23,7 @@ jobs:
       - name: Update JSON file
         run: |
           echo "Updating update.json..."
-          KST_TIME=$(TZ=Asia/Seoul date +"%Y-%m-%d-%H-%M-%S")
+          KST_TIME=$(TZ=Asia/Seoul date +"%Y-%m-%d %H:%M:%S")
           echo "{\"data\": \"${KST_TIME}\"}" > update.json
 
       - name: Commit and push changes
