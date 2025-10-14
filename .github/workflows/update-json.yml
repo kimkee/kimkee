@@ -2,7 +2,7 @@ name: Update JSON three times daily
 
 on:
   schedule:
-    - cron: "0 16 * * *"   # 01:00 KST (UTC+9)
+    - cron: "0 17 * * *"   # 01:00 KST (UTC+9)
     - cron: "0 0 * * *"    # 09:00 KST
     - cron: "0 9 * * *"    # 18:00 KST
   workflow_dispatch:        # 수동 실행용 버튼
