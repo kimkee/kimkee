@@ -1,4 +1,4 @@
-name: Alternating Commit Intensity (Light/Dark Pattern)
+name: Update Alternating Commit Intensity
 
 on:
   schedule:
