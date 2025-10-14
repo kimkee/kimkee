@@ -25,14 +25,21 @@ jobs:
           DAYCODE=$(TZ=Asia/Seoul date +%Y%m%d)
           KST_TIME=$(TZ=Asia/Seoul date +"%Y-%m-%d-%H-%M-%S")
 
-          # 날짜 기반 번갈이 패턴 (홀수: 1회 / 짝수: 15~20회)
-          if [ $((10#$DAYCODE % 2)) -eq 0 ]; then
-            COMMITS=$(( ( RANDOM % 6 ) + 15 ))   # 짝수날 - 15~20 랜덤
+          # 기준일: 2025-01-01
+          BASE_DATE="2025-01-01"
+          TODAY=$(TZ=Asia/Seoul date +%Y-%m-%d)
+
+          # 기준일부터 오늘까지의 날짜 차이 계산
+          DAYS_SINCE=$(($(date -d "$TODAY" +%s) / 86400 - $(date -d "$BASE_DATE" +%s) / 86400))
+
+          if [ $((DAYS_SINCE % 2)) -eq 0 ]; then
+            COMMITS=$(( ( RANDOM % 6 ) + 15 ))
             MODE="DARK"
           else
-            COMMITS=1                            # 홀수날 - 1회
+            COMMITS=1
             MODE="LIGHT"
           fi
+
 
           echo "[$MODE mode] $COMMITS commits scheduled for ${KST_TIME}"
 
