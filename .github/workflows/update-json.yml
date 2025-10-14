@@ -5,7 +5,6 @@ on:
     - cron: "0 0 * * *"    # 09:00 KST
     - cron: "0 6 * * *"    # 15:00 KST
     - cron: "0 12 * * *"   # 21:00 KST
-    - cron: "0 18 * * *"   # 03:00 KST (다음날)
   workflow_dispatch:
 
 jobs:
@@ -23,7 +22,7 @@ jobs:
           git config user.email "kimkee7@gmail.com"
 
           DAYCODE=$(TZ=Asia/Seoul date +%Y%m%d)
-          KST_TIME=$(TZ=Asia/Seoul date +"%Y-%m-%d-%H-%M-%S")
+          KST_TIME=$(TZ=Asia/Seoul date +"%Y-%m-%d %H:%M:%S")
 
           # 기준일: 2025-01-01
           BASE_DATE="2025-01-01"
