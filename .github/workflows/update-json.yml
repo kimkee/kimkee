@@ -1,11 +1,12 @@
-name: Update JSON three times daily
+name: Update JSON every 6 hours from 09:00 KST
 
 on:
   schedule:
-    - cron: "0 17 * * *"   # 01:00 KST (UTC+9)
     - cron: "0 0 * * *"    # 09:00 KST
-    - cron: "0 9 * * *"    # 18:00 KST
-  workflow_dispatch:        # 수동 실행용 버튼
+    - cron: "0 6 * * *"    # 15:00 KST
+    - cron: "0 12 * * *"   # 21:00 KST
+    - cron: "0 18 * * *"   # 03:00 KST (다음날)
+  workflow_dispatch:
 
 jobs:
   update:
