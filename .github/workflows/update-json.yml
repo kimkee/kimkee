@@ -1,4 +1,4 @@
-name: Update JSON every 6 hours from 09:00 KST
+name: Alternating Commit Intensity (Light/Dark Pattern)
 
 on:
   schedule:
@@ -13,27 +13,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "18"
-
-      - name: Update JSON file
-        run: |
-          echo "Updating update.json..."
-          KST_TIME=$(TZ=Asia/Seoul date +"%Y-%m-%d %H:%M:%S")
-          echo "{\"data\": \"${KST_TIME}\"}" > update.json
-
-      - name: Commit and push changes
+      - name: Alternating commit pattern
         env:
           TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
           git config user.name "kimkee"
-          git config user.email "kimkee7@gmail.com"  # 반드시 Verified 상태여야 함
-          KST_TIME=$(TZ=Asia/Seoul date +"%Y-%m-%d %H:%M:%S")
-          git add update.json
-          git commit -m "Update.json on ${KST_TIME}" || echo "No changes to commit."
+          git config user.email "kimkee7@gmail.com"
+
+          DAYCODE=$(TZ=Asia/Seoul date +%Y%m%d)
+          KST_TIME=$(TZ=Asia/Seoul date +"%Y-%m-%d-%H-%M-%S")
+
+          # 날짜 기반 번갈이 패턴 (홀수: 1회 / 짝수: 15~20회)
+          if [ $((10#$DAYCODE % 2)) -eq 0 ]; then
+            COMMITS=$(( ( RANDOM % 6 ) + 15 ))   # 짝수날 - 15~20 랜덤
+            MODE="DARK"
+          else
+            COMMITS=1                            # 홀수날 - 1회
+            MODE="LIGHT"
+          fi
+
+          echo "[$MODE mode] $COMMITS commits scheduled for ${KST_TIME}"
+
+          for i in $(seq 1 $COMMITS); do
+            echo "{\"data\": \"${KST_TIME}-${i}\"}" > update.json
+            git add update.json
+            git commit -m "Update.json on ${KST_TIME} (${MODE} ${i}/${COMMITS})"
+            sleep 2
+          done
+
           git push https://$TOKEN@github.com/kimkee/kimkee.git HEAD:main
