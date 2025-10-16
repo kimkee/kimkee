@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *"    # 09:00 KST
     - cron: "0 6 * * *"    # 15:00 KST
-    - cron: "0 12 * * *"   # 21:00 KST
+    - cron: "0 18 * * *"   # 03:00 KST
   workflow_dispatch:
 
 jobs:
@@ -32,7 +32,7 @@ jobs:
           DAYS_SINCE=$(($(date -d "$TODAY" +%s) / 86400 - $(date -d "$BASE_DATE" +%s) / 86400))
 
           if [ $((DAYS_SINCE % 2)) -eq 0 ]; then
-            COMMITS=$(( ( RANDOM % 6 ) + 15 ))
+            COMMITS=$(( ( RANDOM % 6 ) + 5 ))
             MODE="DARK"
           else
             COMMITS=1
