@@ -3,7 +3,7 @@ name: Update Alternating Commit Intensity
 on:
   schedule:
     - cron: "0 0 * * *"    # 09:00 KST
-    - cron: "0 9 * * *"    # 18:00 KST
+    - cron: "0 4 * * *"    # 13:00 KST
   workflow_dispatch:
 
 jobs:
