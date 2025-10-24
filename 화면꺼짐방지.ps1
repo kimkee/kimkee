@@ -8,6 +8,11 @@
 # 창 크기 조절
 $Host.UI.RawUI.WindowSize = New-Object System.Management.Automation.Host.Size (30,6)
 $Host.UI.RawUI.BufferSize = New-Object System.Management.Automation.Host.Size (30,6)
+$Host.UI.RawUI.WindowTitle = "화면 꺼짐 방지 스크립트 실행 중..."
+$Host.UI.RawUI.ForegroundColor = "Yellow"
+$Host.UI.RawUI.BackgroundColor = "Black"
+$Host.UI.RawUI.CursorPosition = New-Object System.Management.Automation.Host.Coordinates (0,0)
+Clear-Host
 
 Add-Type @"
 using System;
