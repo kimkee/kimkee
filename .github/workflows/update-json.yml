@@ -1,4 +1,5 @@
-name: Update Commit ${{ github.event.created_at || github.event.schedule || github.run_number }}
+name: Update Alternating Commit Intensity
+# name: Update Commit ${{ github.event.created_at || github.event.schedule || github.run_number }}
 # name: Update Commit 2024-06-10 04:00:00 
 # 일정에 따라 JSON 파일을 업데이트하고 커밋하는 워크플로우
 # 매일 두 번 실행: 09:00 KST 및 13:00 KST
