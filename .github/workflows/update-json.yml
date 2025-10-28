@@ -1,5 +1,25 @@
-name: Update Alternating Commit Intensity
-
+name: Update Commit ${{ github.event.created_at || github.event.schedule || github.run_number }}
+# name: Update Commit 2024-06-10 04:00:00 
+# 일정에 따라 JSON 파일을 업데이트하고 커밋하는 워크플로우
+# 매일 두 번 실행: 09:00 KST 및 13:00 KST
+# 짝수일에는 5~10회 커밋, 홀수일에는 1회 커밋
+# 커밋 메시지에 KST 시간과 모드(DARK 또는 LIGHT) 포함
+# 기준일은 2025-01-01로 설정
+# GitHub Secrets에 PERSONAL_TOKEN 설정 필요
+# 커밋 작성자 정보는 "kimkee"와 "kimkee7@gmail.com"
+# JSON 파일은 "update.json"으로 지정
+# 커밋 간 2초 대기
+# 푸시 대상 브랜치는 main
+# GitHub Actions의 ubuntu-latest 환경에서 실행
+# 커밋 패턴은 기준일부터의 날짜 차이에 따라 결정
+# 짝수일: DARK 모드, 5~10회 커밋
+# 홀수일: LIGHT 모드, 1회 커밋
+# 커밋 메시지 형식: "Update.json on {KST 시간} ({모드} {현재 커밋 수}/{총 커밋 수})"
+# JSON 파일 내용 형식: {"data": "{KST 시간}-{커밋 번호}"}
+# 워크플로우 수동 실행도 가능
+# GitHub Actions의 checkout 액션 사용
+# 커밋 시각은 KST 기준으로 설정
+# 커밋 수는 랜덤으로 결정 (짝수일: 5~10, 홀수일: 1)
 on:
   schedule:
     - cron: "0 0 * * *"    # 09:00 KST
