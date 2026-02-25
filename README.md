@@ -71,7 +71,7 @@ const profile = {
  <!-- ![PV](https://visitor-badge.glitch.me/badge?page_id=kimkee) -->
   ![](https://komarev.com/ghpvc/?username=kimkee&color=dc143c)             
 
-### React : <a href="https://kplex.pages.dev/" target="_blank">https://kplex.pages.dev/</a> ,  Next.js : <a href="https://nextio.vercel.app/" target="_blank">https://nextio.vercel.app/</a>
+### React : <a href="https://kplex.vercel.app/" target="_blank">https://kplex.vercel.app/</a> ,  Next.js : <a href="https://nextio.vercel.app/" target="_blank">https://nextio.vercel.app/</a>
 
  
 
