@@ -109,3 +109,6 @@ clien.net##DIV[class="list_top_kcmdjfkejf"]
 www.speedtest.net##DIV[class="top-placeholder"]
 www.speedtest.net##DIV[id="stnext_lowerboard"]
 www.speedtest.net##DIV[id*="google_ads_"]
+
+cpu-monkey.com##DIV[class="_fs-slidewall-container"]
+cpu-monkey.com##DIV[class*="werb"]
